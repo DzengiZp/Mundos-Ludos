@@ -99,12 +99,12 @@
             game.StartPlayerVsComputer();
         }
 
-        public static string GetValidPlayerName(string prompt)
+        public static string GetValidPlayerName(string inputNamePlayer)
         {
             string playerName = string.Empty;
             while (string.IsNullOrWhiteSpace(playerName))
             {
-                Console.Write(prompt);
+                Console.Write(inputNamePlayer);
                 playerName = Console.ReadLine()!;
                 if (string.IsNullOrWhiteSpace(playerName))
                 {

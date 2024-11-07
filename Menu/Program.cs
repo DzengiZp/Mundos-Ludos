@@ -35,7 +35,7 @@ public class Program
                     DisplayHelp();
                     break;
                 case "4":
-                    Console.WriteLine("Exiting ");
+                    story.ExitGameStory();
                     running = false;
                     break;
                 default:
@@ -50,7 +50,7 @@ public class Program
         ApplyTextColor();
         Console.WriteLine("##############################################");
         Console.WriteLine("#                                            #");
-        Console.WriteLine("#          WELCOME TO MUNDOS LUNDOS          #");
+        Console.WriteLine("#          WELCOME TO MUNDOS LUDOS          #");
         Console.WriteLine("#                                            #");
         Console.WriteLine("##############################################");
         Console.WriteLine("#                                            #");
@@ -254,6 +254,7 @@ public class Program
 
     static void KaijiHelp()
     {
+        Console.Clear();
         Console.WriteLine("Welcome to the Mundos Ludos Kaiji game!\n");
         Console.WriteLine("If you at any point in the game when choosing a card want to exit the game, press the ESC button.\n");
         Console.WriteLine("Guide:\n");

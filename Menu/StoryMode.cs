@@ -390,5 +390,13 @@
       Console.Write("\nPress any key to continue ");
       Console.ReadKey();
     }
+
+    public void ExitGameStory()
+    {
+      Console.WriteLine(@"
+You wake up from this dream of Mundos Ludos... only to find yourself back in the dimly lit streets of Angered Centrum. 
+Where the bullies surrounded you once again.. 
+Only this time, you had a smile to your face, because you knew you weren't insane.");
+    }
   }
 }

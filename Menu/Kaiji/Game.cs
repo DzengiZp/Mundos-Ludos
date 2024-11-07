@@ -1,25 +1,22 @@
 public class Game
 {
-    private Player player1 = null!;
-    private Player player2 = null!;
-    public bool isplayer2Game;
+    private readonly Player player1 = null!;
+    private readonly Player player2 = null!;
     public int player1Points = 0;
     public int player2Points = 0;
-    private string computerName = null!;
+    private readonly string computerName = null!;
     private bool exitGame = false;
 
     public Game(Player p1, Player p2)
     {
         player1 = p1;
         player2 = p2;
-        isplayer2Game = false;
     }
 
     public Game(Player p1, string computerName)
     {
         player1 = p1;
         player2 = new Player(computerName);
-        isplayer2Game = true;
         this.computerName = computerName;
     }
 
@@ -249,21 +246,21 @@ public class Game
     {
         Console.Clear();
         Console.WriteLine("\n========================================\n");
-        Console.WriteLine("       Game over. Thanks for playing!\n");
+        Console.WriteLine("    Game over. Thanks for playing!\n");
         Console.WriteLine($@"       |____/ SCOREBOARD \____|
-       {{{player1.Name}}} - [{player1Points}] || {{{player2.Name}}} - [{player2Points}]");
+     {{{player1.Name}}} - [{player1Points}] || {{{player2.Name}}} - [{player2Points}]");
 
         if (player1Points > player2Points)
         {
-            Console.WriteLine($"\n***** {{{player1.Name}}} is the overall winner! *****");
+            Console.WriteLine($"\n***** {{{player1.Name}}} is the winner, and gets to live to fight another day! *****");
         }
         else if (player2Points > player1Points)
         {
-            Console.WriteLine($"\n***** {{{player2.Name}}} is the overall winner! *****");
+            Console.WriteLine($"\n***** {{{player2.Name}}} is the winner, and gets to live to fight another day! *****");
         }
         else
         {
-            Console.WriteLine("\n***** It's a draw! Congratulations to both *****\n");
+            Console.WriteLine("\n***** It's a draw! Both get to live to fight another day *****\n");
         }
 
         Console.WriteLine("======================================== \n");
@@ -326,8 +323,3 @@ public class Game
     }
 
 }
-
-
-
-
-
