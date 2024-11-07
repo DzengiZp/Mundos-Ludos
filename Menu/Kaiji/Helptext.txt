@@ -1,0 +1,37 @@
+Welcome to the Mundos Ludos Kaiji game!
+
+If you at any point in the game when choosing a card want to exit the game, press the ESC button.
+
+Guide:
+
+[Game Modes]
+
+Player vs Player (PvP): Two players compete against each other.
+Player vs Computer (PvC): A player competes against the computer.
+
+[How to Play]
+
+Start the Game: Choose your game mode from the menu.
+
+Enter Player Names: If you're playing PvP, both players will enter their names. 
+If you’re playing PvC mode, you'll enter your name, and the computer will have a random name.
+
+Card Types: There are three types of cards - Emperor, Citizen, and Slave. Each card has a specific role:
+
+->>	Emperor beats Citizen.
+->>	Citizen beats Slave.
+->>	Slave beats Emperor.
+
+Playing a Match: Players will take turns choosing a card from their hand to play against their opponent up to 5 matches.
+
+Winning a Match: The player whose card wins the match gets a point. If the cards are the same, it's a draw.
+
+Game Rounds: The game consists of 12 rounds where each player will draw and play cards.
+
+Determining the Winner: After all rounds are played, the player with the most points wins the game.
+
+•	Help: If you need to see the help again, you can type in 'help' in the menu.
+
+Enjoy playing Kaiji and may the best player win!
+
+Press any key to return to the menu

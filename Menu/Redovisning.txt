@@ -1,0 +1,54 @@
+1. Resultat
+
+   1. Vad är resultatet?
+
+   2. Hur ser det ut?
+
+2. Planering
+
+   3. Hur planerade ni arbetet?
+
+   4. Vem gjorde vad?
+
+   5. Hur hanterade ni kommunikation?
+
+3. Reflektion
+
+   6. Vad kan förbättras i arbete och planering?
+
+   7. Vad var bra gjort?
+
+   8. Vad tar ni med er till nästa projekt?
+
+   ====================================================================================================================================
+
+
+Aras: 
+Aras inleder presentationen. Börja med att visa spelet och all funktionalitet. 
+1. Vad är resultatet och helheten av projektet och hur den ser ut.
+
+Dekrim.
+
+Dzengiz: 
+
+2. Prata om planeringen och presentera varje person till sitt spel.
+Vi planerade den från början idén att vi ska köra ett mini game system där alla fick komma in med olika spelidéer och vi röstade fram de 3 spelen vi ville köra på.
+En gång i veckan så träffades vi upp på discord och kollade varandras progress och stämde av med nya idéer/tankar.
+Vi hanterade kommunikationen i discord helt och hållet.
+
+Kaiji
+
+Nour: 
+Vad var bra gjort?
+
+3. Ingen hade några problem med varandra, alla kom överens väldigt fort, det var väldigt lätt att ta beslut.
+Man fick lära sig av varandra då man fick se hur andra skrev sin kod och hur de andra tänkte.
+Även om det var ganska individuellt kom idéerna från teamet och vi jobbade ihop i slutet för att sätta ihop allting. 
+Första projekt, man fick känna in varandra. Så fler check ins med varandra. Vi kunde ha förbättrat kommunikationen, fler avstämningar och bygga mer idéer ihop och kanske samarbeta ihop mer.
+
+Warmonster
+
+Elias: 
+
+Vem gjorde vad? Startsidan/Plattformen
+Vad tar ni med er till nästa projekt? Väldigt lärorik upplevelse. Mycket nya och svåra koncept i kodhanteringen och även grupparbetet, alla våra förbättringspunkter är bra feedback för alla i gruppen.

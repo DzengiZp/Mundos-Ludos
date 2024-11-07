@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|c:\\users\\dzeng\\desktop\\coding\\mundos\\dzengizspel\\storymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|solutionrelative:storymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|c:\\users\\dzeng\\desktop\\coding\\mundos\\dzengizspel\\gamemenu\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|solutionrelative:gamemenu\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|c:\\users\\dzeng\\desktop\\coding\\mundos\\dzengizspel\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|c:\\users\\dzeng\\desktop\\coding\\mundos\\dzengizspel\\helptext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|solutionrelative:helptext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|c:\\users\\dzeng\\desktop\\coding\\mundos\\dzengizspel\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|c:\\users\\dzeng\\desktop\\coding\\mundos\\dzengizspel\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118253D0-BE81-4422-99BD-8612513CA03B}|GruppUppgift2.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:47:17.899Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryMode.cs",
+              "DocumentMoniker": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\StoryMode.cs",
+              "RelativeDocumentMoniker": "StoryMode.cs",
+              "ToolTip": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\StoryMode.cs",
+              "RelativeToolTip": "StoryMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:06:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helptext.txt",
+              "DocumentMoniker": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Helptext.txt",
+              "RelativeDocumentMoniker": "Helptext.txt",
+              "ToolTip": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Helptext.txt",
+              "RelativeToolTip": "Helptext.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-01T09:56:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:43:02.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMenu.cs",
+              "DocumentMoniker": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\GameMenu\\GameMenu.cs",
+              "RelativeDocumentMoniker": "GameMenu\\GameMenu.cs",
+              "ToolTip": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\GameMenu\\GameMenu.cs",
+              "RelativeToolTip": "GameMenu\\GameMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:58:45.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\dzeng\\Desktop\\Coding\\Mundos\\DzengizSpel\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:12:31.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

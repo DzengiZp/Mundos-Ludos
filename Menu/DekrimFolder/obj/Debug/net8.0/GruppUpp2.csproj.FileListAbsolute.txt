@@ -1,0 +1,14 @@
+C:\Users\Administratör\Desktop\GruppUpp2\bin\Debug\net8.0\GruppUpp2.exe
+C:\Users\Administratör\Desktop\GruppUpp2\bin\Debug\net8.0\GruppUpp2.deps.json
+C:\Users\Administratör\Desktop\GruppUpp2\bin\Debug\net8.0\GruppUpp2.runtimeconfig.json
+C:\Users\Administratör\Desktop\GruppUpp2\bin\Debug\net8.0\GruppUpp2.dll
+C:\Users\Administratör\Desktop\GruppUpp2\bin\Debug\net8.0\GruppUpp2.pdb
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\GruppUpp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\GruppUpp2.AssemblyInfoInputs.cache
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\GruppUpp2.AssemblyInfo.cs
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\GruppUpp2.csproj.CoreCompileInputs.cache
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\GruppUpp2.dll
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\refint\GruppUpp2.dll
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\GruppUpp2.pdb
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\GruppUpp2.genruntimeconfig.cache
+C:\Users\Administratör\Desktop\GruppUpp2\obj\Debug\net8.0\ref\GruppUpp2.dll
