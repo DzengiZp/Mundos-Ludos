@@ -8,7 +8,8 @@
             {
                 Console.Clear();
                 Console.WriteLine("Type 'help' to learn about the game or '3' to exit.");
-                Console.WriteLine("""
+                Console.WriteLine(
+                    """
                    ╔═════════════════════════════════════════════════╗
                    ║ ╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗  ╔╦╗╔═╗  ╦╔═╔═╗╦ ╦╦       ║
                    ║ ║║║║╣ ║  ║  ║ ║║║║║╣    ║ ║ ║  ╠╩╗╠═╣║ ║║       ║

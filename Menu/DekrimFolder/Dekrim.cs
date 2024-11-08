@@ -875,15 +875,21 @@ Welcome to Dekrim! Welcome to Dekrim!", 5000, 500);
         //Important to note: MusicPlay and MusicStop methods only work on windows.
         static void MusicPlay()
         {
-            SoundPlayer music = new SoundPlayer();
-            music.SoundLocation = Path.Combine(Directory.GetCurrentDirectory(), "finalboss.wav");
-            music.Play();
+            if (OperatingSystem.IsWindows())
+            {
+                SoundPlayer music = new SoundPlayer();
+                music.SoundLocation = Path.Combine(Directory.GetCurrentDirectory(), "finalboss.wav");
+                music.Play();
+            }
         }
         static void MusicStop()
         {
-            SoundPlayer music = new SoundPlayer();
-            music.SoundLocation = Path.Combine(Directory.GetCurrentDirectory(), "finalboss.wav");
-            music.Stop();
+            if (OperatingSystem.IsWindows())
+            {
+                SoundPlayer music = new SoundPlayer();
+                music.SoundLocation = Path.Combine(Directory.GetCurrentDirectory(), "finalboss.wav");
+                music.Stop();
+            }
         }
     }
 }
